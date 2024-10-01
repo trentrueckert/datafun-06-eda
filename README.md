@@ -18,3 +18,14 @@ git add .
 git commit 
 git push
 ```
+
+## Install packages using requirements.txt
+
+```
+jupyterlab
+numpy
+pandas
+pyarrow
+matplotlib
+seaborn
+```
