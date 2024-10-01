@@ -29,3 +29,9 @@ pyarrow
 matplotlib
 seaborn
 ```
+
+## Chosen Dataset and Description
+
+The "car_crashes" dataset provides information about U.S. car crashes, including by state. There are different columns including crashes involving speeding, alcohol, the lack of distraction, insurance premium, insurance losses, state population, and area of the state. It is used to analyze the 'why' behind many accidents, and the relationships between the variables. 
+
+https://github.com/mwaskom/seaborn-data/blob/master/car_crashes.csv
