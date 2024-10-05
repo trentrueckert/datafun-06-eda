@@ -35,3 +35,14 @@ seaborn
 The "car_crashes" dataset provides information about U.S. car crashes, including by state. There are different columns including crashes involving speeding, alcohol, the lack of distraction, insurance premium, insurance losses, state population, and area of the state. It is used to analyze the 'why' behind many accidents, and the relationships between the variables. 
 
 https://github.com/mwaskom/seaborn-data/blob/master/car_crashes.csv
+
+## EDA Steps
+
+* Data Acquisition
+* Initial Data Inspection
+* Initial Descriptive Statistics
+* Initial Data Distribution for Numerical Columns
+* Initial Data Distribution for Categorical Columns
+* Initial Data Transformation and Feature Engineering
+* Initial Visualizations
+* Initial Storytelling and Presentation
